@@ -191,6 +191,10 @@ label {
     font-size: .75rem;
 }
 
+h1 {
+    font-size: .65rem;
+}
+
 .attribution a:hover {
     text-decoration: underline;
 }
