@@ -188,6 +188,7 @@ label {
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+    font-size: .75rem;
 }
 
 .attribution a:hover {
